@@ -9,6 +9,12 @@ body {
   background-color: white;
 }
 
+.canvas{
+    margin: auto;
+    width: 575px;
+    height: 700px;
+}
+
 html {
   margin: 0;
 }
@@ -27,6 +33,7 @@ nav {
   border-bottom: solid 1px #aaa;
   background-color: #eee;
 }
+
 
 nav a {
   display: inline-block;
@@ -56,6 +63,7 @@ h1 {
 
 .button {
   align-items: center;
+  margin: auto;
   width: 100px;
   height: 100px;
   border: solid black 2px;

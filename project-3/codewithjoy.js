@@ -7,4 +7,4 @@ setInterval(function () {
     let date = new Date()
     //console.log(date.toLocaleTimeString());
     clock.innerHTML = date.toLocaleTimeString();
-},1000) // 2000 for 2 seconds
+},1000) // 2000 for 2 seconds 
